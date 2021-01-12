@@ -72,8 +72,12 @@
 
 ### 联系我
 
-如果你在学习过程中遇到问题，你可以直接提交issue，或者直接联系我，请添加时备注：xposed、wework+姓
+如果你在学习过程中遇到问题，你可以直接提交issue，或者直接联系我
+QQ交流群：**596725067**
 
-<img src="sources/my_contact_01.png" width="160" height="160"/><img src="sources/my_contact_02.png" width="160" height="160"/><img src="sources/qq_group_chat_qr_code.png" width="250" height="256"/>
+请添加时备注：xposed、wework+姓
 
+<img src="sources/qq_group_chat_qr_code.png" width="250" height="256"/>
+
+<img src="sources/my_contact_01.png" width="160" height="160"/><img src="sources/my_contact_011.png" width="160" height="160"/><img src="sources/my_contact_012.png" width="160" height="160"/>
 
