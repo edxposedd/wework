@@ -9,7 +9,7 @@
 
 ### 如何测玩
 
-1、安装好[release测玩包]()后，重启手机，如果看到Logo下方显示**【准备就绪】** 即视为安装好
+1、安装好[release测玩包](https://github.com/edxposedd/wework/releases/tag/V3.1.6)后，重启手机，如果看到Logo下方显示**【准备就绪】** 即视为安装好
 
 <img src="sources/trail_000.png" width="220" height="400"/>
 
@@ -19,7 +19,7 @@
 <img src="sources/trail_001.png" width="220" height="400"/>
 
 
-3、打开企微并登陆，重新切换至[release测玩包]()界面，如下图，点击激活即可
+3、打开企微并登陆，重新切换至[release测玩包](https://github.com/edxposedd/wework/releases/tag/V3.1.6)界面，如下图，点击激活即可
 
 <img src="sources/trail_002.png" width="220" height="380"/>
 
