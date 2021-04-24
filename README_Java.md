@@ -36,7 +36,7 @@
 
 上述数据配置好后，可以直接在IDE运行，结果如下即表示初步配置成功
 
-<img src="sources/trail_java_000.png" width="440" height="220"/>
+<img src="sources/trail_java_000.png" width="800"/>
 
 5、接下来是配置其他参数的问题
 
@@ -65,11 +65,11 @@
 > 建议demo里面不要先测试 退出群聊和解散群聊，这个可以在所有功能测试完毕之后再来验证（因为demo参数是固定配置的群聊id）
 
 
-<img src="sources/trail_java_001.png" width="440" height="220"/>
+<img src="sources/trail_java_001.png" width="800"/>
 
 ### [API接口文档查看](https://docs.qq.com/doc/DS2JLYVpOY2ZJRFJI)
 
-关于每个指令集是代表什么功能，可以直接申请，在申请权限时请写明备注，无备注不会处理，或者可以通过一下群与我们交流
+关于每个指令集是代表什么功能，可以直接申请，在申请权限时请写明备注，无备注不会处理，或者可以通过以下群与我们交流
 
 ### 与我们进行交流
 
