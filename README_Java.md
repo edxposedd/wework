@@ -5,11 +5,15 @@
 
 2、由于做了版本自动化适配，99%功能通过自动查找方式匹配，所以需要你去下载[官网的【安装包】](https://work.weixin.qq.com/#indexDownload)
 
-3、下载与官网APK版本一致的[release测玩包]()，测玩包支持5.0及以上的**【真机】**、**【模拟器】**、**【各类云手机】**
+3、下载与官网APK版本一致的[release测玩包](https://github.com/edxposedd/wework/releases)，测玩包支持5.0及以上的
+
+- 【真机】
+- 【模拟器】
+- 【各类云手机】
 
 ### 如何测玩
 
-1、安装好[release测玩包](https://github.com/edxposedd/wework/releases/tag/V3.1.6)后，重启手机，如果看到Logo下方显示**【准备就绪】** 即视为安装好
+1、安装好[release测玩包](https://github.com/edxposedd/wework/releases)后，重启手机，如果看到Logo下方显示**准备就绪** 即视为安装好
 
 <img src="sources/trail_000.png" width="220" height="400"/>
 
@@ -19,7 +23,7 @@
 <img src="sources/trail_001.png" width="220" height="400"/>
 
 
-3、打开企微并登陆，重新切换至[release测玩包](https://github.com/edxposedd/wework/releases/tag/V3.1.6)界面，如下图，点击激活即可
+3、打开企微并登陆，重新切换至[release测玩包](https://github.com/edxposedd/wework/releases)界面，如下图，点击激活即可
 
 <img src="sources/trail_002.png" width="220" height="380"/>
 
