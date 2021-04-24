@@ -1,0 +1,2 @@
+include ':app', ':kernel', ':shared', ':wechat', ':wework'
+rootProject.name='ExampleWework'

@@ -1,0 +1,31 @@
+
+debug: true
+server:
+  port: 8081
+  servlet:
+    session:
+      timeout: 86400
+    context-path: /wwclient
+  tomcat:
+    max-http-post-size: -1
+
+
+spring:
+  jackson:
+    time-zone: GMT+8
+  mvc:
+    view:
+      suffix: /WEB-INF/jsp/
+    throw-exception-if-no-handler-found: true
+  resources:
+    add-mappings: true
+
+mybatis:
+  mapper-locations:
+    - classpath:mapper/*/*.xml
+  #实体扫描，多个package用逗号或者分号分隔
+  type-aliases-package: com.yc.inter.**.entity
+
+
+logging:
+  config: classpath:logback-spring.xml
