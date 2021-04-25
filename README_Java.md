@@ -3,7 +3,7 @@
 
 1、对xposed有一定的了解，知道如何安装及试用
 
-2、由于做了版本自动化适配，99%功能通过自动查找方式匹配，所以需要你去下载[官网的【安装包】](https://work.weixin.qq.com/#indexDownload)
+2、由于做了版本自动化适配，99%功能通过自动查找方式匹配，所以需要你去下载官网的【安装包】
 
 3、下载与官网APK版本一致的[release测玩包](https://github.com/edxposedd/wework/releases)，测玩包支持5.0及以上的
 
