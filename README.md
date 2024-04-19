@@ -45,5 +45,4 @@ QQ交流群：**596725067**
 
 <img src="sources/qq_group_chat_qr_code.png" width="250" height="256"/>
 
-<img src="sources/my_contact_01.png" width="160" height="160"/><img src="sources/my_contact_011.png" width="160" height="160"/><img src="sources/my_contact_012.png" width="160" height="160"/>
 
